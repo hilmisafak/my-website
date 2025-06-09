@@ -15,10 +15,10 @@ function App() {
                 />
                 <div className="profile-text">
                     <h1>HILMI SAFAK</h1>
-                    <h4><span>BACKEND DEVELOPER</span></h4>
+                    <h4><span>FULLSTACK DEVELOPER</span></h4>
                     <div className="icons">
                         <a
-                            href="https://www.instagram.com/hilmi_safak/"
+                            href="https://www.instagram.com/hm.sfkk/"
                             target="_blank"
                             className="i ai"
                             rel="noreferrer"
@@ -42,7 +42,7 @@ function App() {
                             <FontAwesomeIcon icon={faTwitter}/>
                         </a>
                         <a
-                            href="https://github.com/Hilmi51"
+                            href="https://github.com/hilmisafak"
                             target="_blank"
                             className="i ai"
                             rel="noreferrer"

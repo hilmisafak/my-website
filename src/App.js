@@ -15,7 +15,7 @@ function App() {
                 />
                 <div className="profile-text">
                     <h1>HILMI SAFAK</h1>
-                    <h4><span>FULLSTACK DEVELOPER</span></h4>
+                    <h4><span>FULL-STACK DEVELOPER</span></h4>
                     <div className="icons">
                         <a
                             href="https://www.instagram.com/hm.sfkk/"
